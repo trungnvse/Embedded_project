@@ -1,0 +1,3 @@
+E:\FPT ACADEMY\MCU\CODE\Nguyen_Viet_Trung_Asm5\drivers/fsl_clock.h:623:20:CLOCK_SetIpSrc	24	static
+E:\FPT ACADEMY\MCU\CODE\Nguyen_Viet_Trung_Asm5\utilities/fsl_debug_console.h:154:24:DbgConsole_Init	24	static
+../board/board.c:24:6:BOARD_InitDebugConsole	16	static

@@ -1,0 +1,7 @@
+E:\FPT ACADEMY\MCU\CODE\Nguyen_Viet_Trung_Asm5\CMSIS/core_cm0plus.h:741:22:__NVIC_EnableIRQ	16	static
+../source/inc/asm5.c:29:6:ADC0_IRQHandler	16	static
+../source/inc/asm5.c:38:6:init_adc	8	static
+../source/inc/asm5.c:114:6:init_lpit	8	static
+../source/inc/asm5.c:150:6:init_led	8	static
+../source/inc/asm5.c:172:6:change_led	8	static
+../source/inc/asm5.c:198:6:SysTick_Handler	8	static

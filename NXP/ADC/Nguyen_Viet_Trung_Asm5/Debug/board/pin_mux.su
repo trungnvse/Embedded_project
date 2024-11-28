@@ -1,0 +1,15 @@
+E:\FPT ACADEMY\MCU\CODE\Nguyen_Viet_Trung_Asm5\drivers/fsl_clock.h:594:20:CLOCK_EnableClock	16	static
+E:\FPT ACADEMY\MCU\CODE\Nguyen_Viet_Trung_Asm5\drivers/fsl_port.h:356:20:PORT_SetPinConfig	32	static
+E:\FPT ACADEMY\MCU\CODE\Nguyen_Viet_Trung_Asm5\drivers/fsl_port.h:459:20:PORT_SetPinMux	24	static
+E:\FPT ACADEMY\MCU\CODE\Nguyen_Viet_Trung_Asm5\drivers/fsl_port.h:474:20:PORT_EnablePinsDigitalFilter	24	static
+E:\FPT ACADEMY\MCU\CODE\Nguyen_Viet_Trung_Asm5\drivers/fsl_port.h:528:20:PORT_SetPinInterruptConfig	24	static
+../board/pin_mux.c:38:6:BOARD_InitBootPins	8	static
+../board/pin_mux.c:60:6:BOARD_InitPins	8	static
+../board/pin_mux.c:82:6:BOARD_InitOSCPins	8	static
+../board/pin_mux.c:114:6:BOARD_InitTOUCHPins	16	static
+../board/pin_mux.c:174:6:BOARD_InitBUTTONSPins	24	static
+../board/pin_mux.c:240:6:BOARD_InitTHERMISTORPins	16	static
+../board/pin_mux.c:296:6:BOARD_InitACCELPins	32	static
+../board/pin_mux.c:403:6:BOARD_InitDEBUG_UARTPins	16	static
+../board/pin_mux.c:457:6:BOARD_InitLEDsPins	32	static
+../board/pin_mux.c:547:6:BOARD_InitCANPins	24	static
